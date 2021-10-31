@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container1{
+       display: flex; 
+       position: absolute;
+       margin-top:-50px;
+       margin-left: 48px;
+   
+}
+.TL{
+  
+    position: relative;
+    margin-left: 280px;
+    margin-right: 350px;
+}
+
+.circle{
+    display: flex;
+    position: relative;
+   
+
+
+}
+.container2{
+    display:flex;
+    margin-left: 300px;
+    margin-top: 200px;
+    box-shadow: orange;
+ 
+}
+.box{
+   
+    margin-right: 30x;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 2px solid orange;
+    width: 200px;
+    height: 270px;
+    box-shadow: 5px 5px 5px gray;
+    justify-content: space-evenly;
+    display: flex;
+    
+   
+}
+.top{
+    position: absolute;
+    top: 210px;
+    font-size: 20px;
+    width: 160px;
+    text-align: center;
+    position: fixed;
+    color: orange;
+    border-bottom:1px solid gray;
+  
+}
+.text{
+    font-size: 20px;
+    padding: 2px;
+    position: absolute;
+    margin-top: 65px;
+    margin-bottom: 30px;
+    display: flex;
+    color: orangered;
+    justify-content: start;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input{
+    position:absolute;
+    justify-content: left;
+    margin-top: 10%;
+    margin-right: 12%;
+    width: 20px;
+    height:20px;
+}
+label{
+    position: absolute;
+    margin-top: 10%;
+    margin-right: 3%;
+}
+.anchor{
+    display: flex;
+   position: absolute;
+   bottom: 50px;
+   left: 635px;
+}
+.containerpg2{
+    display: flex;
+    position: absolute;
+}
+.top2{
+    display: flex;
+}
+
+.card{
+    margin: 150px auto;
+    border: 1.5px solid orange;
+    height:50vh;
+    width: 20%;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px gray;
+}
+.div1{
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    right: 0;
+    font-size: 25px;
+    width: 85%;
+    text-align: left;
+    height: 15%;
+    color: rgba(209, 89, 9, 0.801);
+    border-bottom: 1px solid black;
+}
+.div2{
+    font-size: 20px;
+    padding: 2px;
+    position: absolute;
+    margin-top: 87px;
+    margin-left: 55px;
+    margin-bottom: 30px;
+    display: flex;
+    color: orangered;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma;
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.div3{
+    width: 90px;
+    height: 10%;
+    font-size: 17px;
+   display:inline-block;
+    top: 52%;
+    text-align: left;
+    margin-left: 40px;
+}
+.heading{
+    display: flex;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -100px;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+.anchor2{
+    display: flex;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 720px;
+   
+}
+.back{
+    display: flex;
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 640px;
+    font-weight: bold;
+}
+.backicon{
+    display: flex;
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 600px;
+    color: orangered;
+    font-size: 30px;
+}
+.notshow{
+    filter: blur(8px);
+}
+.popup1{
+    
+    position: absolute;
+    margin-top: -260px ;
+    margin-left: 500px;
+    border: 2px solid orangered;
+    box-shadow: 2px 2px 2px black;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px ;
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+.x{
+    color: orangered;
+    text-align: center;
+    margin-top: 15px;
+    font-size: x-large;
+}
+.y{
+   
+    width: 100%;
+    padding: 12px;
+    margin: 8px ;
+    display: inline-block;
+   
+ 
+    
+}
+.add {
+    display: flex;
+    position: absolute;
+    margin-left: 95px;
+    background-color:orangered; 
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 35%;
+  }
+  .popup2{
+    
+        position: absolute;
+        margin-top: -400px ;
+        margin-left: 500px;
+        border: 2px solid orangered;
+        box-shadow: 2px 2px 2px black;
+        width: 250px;
+        height: 150px;
+        border-radius: 10px ;
+        background-color: white;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      
+    
+  }
+  
